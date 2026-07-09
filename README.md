@@ -55,21 +55,14 @@ Building scalable systems, AI-powered applications, and modern developer tools.
 
 ## 🔥 Contribution Streak
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=martin34524&theme=dark&hide_border=true"/>
-
-</div>
+![GitHub Streak](https://streak-stats.demolab.com?user=martin34524&theme=dark&hide_border=true)
 
 ---
 
+
 ## 📈 Activity Graph
 
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=martin34524&theme=github-dark"/>
-
-</div>
+[![Martin's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=martin34524&theme=github-dark)](https://github.com/martin34524)
 
 ---
 
