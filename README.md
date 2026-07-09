@@ -41,15 +41,14 @@ Building scalable systems, AI-powered applications, and modern developer tools.
 
 ---
 
+
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=martin34524&show_icons=true&theme=github_dark&hide_border=true" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=martin34524&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin34524&layout=compact&theme=github_dark&hide_border=true"/>
-
-</div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin34524&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
