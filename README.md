@@ -1,16 +1,16 @@
 <div align="center">
 
-# 👋 Hi, I'm Mac Martins
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:2563EB,35:3B82F6,70:4F46E5,100:7C3AED&text=Mac%20Martins&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=40"/>
 
-### 🚀 Backend Engineer • AI Engineer • Elixir Developer • Founder of MacDevs
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=🚀+Backend+Engineer;⚡+Elixir+%7C+Phoenix+Developer;🤖+AI+Engineer;🧠+Machine+Learning+Enthusiast;🏗️+System+Architect;🌍+Founder+of+MacDevs" />
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Elixir+%7C+Phoenix+%7C+Python;AI+Integrations+%7C+Machine+Learning;Distributed+Systems+%7C+System+Architecture;Linux+Power+User;Always+Learning+🚀" />
+<br>
 
-<br><br>
+![](https://komarev.com/ghpvc/?username=martin34524&style=for-the-badge&color=2563EB)
 
-[![Profile Views](https://komarev.com/ghpvc/?username=martin34524&label=Profile%20Views&style=for-the-badge&color=3B82F6)](https://github.com/martin34524)
-[![Followers](https://img.shields.io/github/followers/martin34524?style=for-the-badge&logo=github&color=3B82F6)](https://github.com/martin34524?tab=followers)
-[![Stars](https://img.shields.io/github/stars/martin34524?affiliations=OWNER&style=for-the-badge&logo=github&color=3B82F6)](https://github.com/martin34524)
+![](https://img.shields.io/github/followers/martin34524?style=for-the-badge&logo=github)
+
+![](https://img.shields.io/github/stars/martin34524?style=for-the-badge&logo=github)
 
 </div>
 
@@ -18,56 +18,69 @@
 
 # 💫 About Me
 
-I'm a **Backend Engineer** passionate about designing scalable software, distributed systems, and AI-powered applications.
+```yaml
+name: Mac Martins
 
-Currently building modern enterprise solutions using **Elixir**, **Phoenix**, **Python**, and **PostgreSQL** while exploring **Machine Learning**, **LLMs**, and **Cloud Infrastructure**.
+role:
+  - Backend Engineer
+  - AI Engineer
+  - Founder of MacDevs
 
-### Current Interests
+currently_building:
+  - Vumbuzi ERP
+  - AI Enterprise Solutions
+  - Phoenix Applications
+  - Open Source Projects
 
-- 🚀 High-performance backend systems
-- 🤖 AI & LLM integrations
-- ⚡ Phoenix LiveView
-- 🧠 Machine Learning
-- 🏗 Distributed Systems
-- ☁ Cloud-native applications
-- 🐧 Linux & Developer Productivity
+currently_learning:
+  - OTP
+  - Distributed Systems
+  - Machine Learning
+  - Kubernetes
+
+interests:
+  - Elixir
+  - Phoenix
+  - AI
+  - PostgreSQL
+  - Linux
+  - System Design
+```
 
 ---
 
-# 🚀 Currently Building
+# ⚡ Tech Stack
 
-- 🏥 **Vumbuzi ERP**
-- 🤖 AI-powered enterprise solutions
-- 🌍 **MacDevs Developer Community**
-- 🧠 LLM integrations with Phoenix
-- 📚 Open Source Projects
-
----
-
-# 🛠 Tech Stack
-
-### Languages
+## Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=elixir,python,javascript,html,css" />
+
+<img src="https://skillicons.dev/icons?i=elixir,python,javascript,typescript,html,css"/>
+
 </p>
 
-### Frameworks
+## Frameworks
 
 <p>
-<img src="https://skillicons.dev/icons?i=phoenix,django,fastapi" />
+
+<img src="https://skillicons.dev/icons?i=phoenix,django,fastapi"/>
+
 </p>
 
-### Database
+## Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+
+<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
+
 </p>
 
-### DevOps & Tools
+## DevOps
 
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,bash" />
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,bash,vscode"/>
+
 </p>
 
 ---
@@ -77,18 +90,16 @@ Currently building modern enterprise solutions using **Elixir**, **Phoenix**, **
 <p align="center">
 
 <img
-height="190"
-src="https://github-readme-stats.vercel.app/api?username=martin34524&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=3600"
+height="180"
+src="https://github-readme-stats-one-bice.vercel.app/api?username=martin34524&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"
 />
 
 <img
-height="190"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin34524&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=3600"
+height="180"
+src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=martin34524&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"
 />
 
 </p>
-
-> **Note:** The language chart is generated from **public repositories only** and reflects repository code size rather than overall experience.
 
 ---
 
@@ -116,7 +127,7 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin34524&
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=martin34524&theme=tokyonight&margin-w=12&margin-h=12&column=4&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=martin34524&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true"/>
 
 </p>
 
@@ -124,12 +135,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin34524&
 
 # 🚀 Featured Projects
 
-| Project | Description | Stack |
-|---------|-------------|-------|
-| 🏥 **Vumbuzi ERP** | Enterprise resource planning platform with AI-powered workflows | Elixir • Phoenix |
-| 🤖 **AI Backend Services** | OpenAI and Local LLM integrations | Python |
-| 🌍 **MacDevs** | Community-driven software development platform | Elixir |
-| ✍️ **AI Blog Generator** | Automated content generation system | FastAPI |
+| Project | Description | Tech |
+|---------|-------------|------|
+| 🏥 **Vumbuzi ERP** | Enterprise Resource Planning platform with AI-powered workflows | Elixir • Phoenix |
+| 🤖 **AI Backend Services** | OpenAI & Local LLM integrations | Python |
+| 🌍 **MacDevs** | Community-driven software development | Elixir |
+| 📝 **AI Blog Generator** | Automated content generation | FastAPI |
 | ⚙️ **Developer Utilities** | Backend tooling and automation | Python |
 
 ---
@@ -137,40 +148,37 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin34524&
 # 🎯 Current Focus
 
 ```text
-✓ Backend Engineering
-✓ Elixir & Phoenix
-✓ Phoenix LiveView
-✓ AI Integrations
-✓ Machine Learning
-✓ PostgreSQL
-✓ Distributed Systems
-✓ Cloud Infrastructure
-✓ Linux
+██████████████████████████ Backend Engineering
+
+██████████████████████░░░░ Elixir & Phoenix
+
+████████████████████░░░░░░ AI Integrations
+
+██████████████████░░░░░░░░ Machine Learning
+
+█████████████████████░░░░░ PostgreSQL
+
+██████████████████████░░░░ Linux
+
+███████████████████░░░░░░░ Distributed Systems
 ```
 
 ---
 
-# 🏆 2026 Goals
+# 🌎 Connect With Me
 
-- 🚀 Build production-grade AI systems
-- ⚡ Master OTP & Phoenix internals
-- 🌍 Grow MacDevs into a thriving developer community
-- 📦 Contribute to major open-source projects
-- 📝 Publish technical articles consistently
-- ☁ Deploy scalable cloud-native systems
-
----
-
-# 🌐 Connect With Me
-
-<p>
+<p align="center">
 
 <a href="https://github.com/martin34524">
+
 <img src="https://skillicons.dev/icons?i=github"/>
+
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+
 <img src="https://skillicons.dev/icons?i=linkedin"/>
+
 </a>
 
 </p>
@@ -179,14 +187,10 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin34524&
 
 <div align="center">
 
-## 💭 Favorite Quote
+### 💙 "Building intelligent systems that solve real-world problems."
 
-> **"First, solve the problem. Then, write the code."** — John Johnson
-
----
-
-### ⭐ Thanks for visiting my profile!
-
-**Building intelligent systems that solve real-world problems.**
+⭐ Thanks for visiting my profile!
 
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:2563EB,35:3B82F6,70:4F46E5,100:7C3AED"/>
