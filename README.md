@@ -130,13 +130,18 @@ end
 
 ## 🐍 Contribution Snake
 
-<div align="center">
-<img src="https://raw.githubusercontent.com/martin34524/martin34524/output/github-contribution-grid-snake-dark.svg"/>
-</div>
+## 🐍 Watch My Contributions Come Alive
 
 <div align="center">
 
-*Auto-generated daily by a GitHub Action — see setup note at the bottom of this file.*
+<img
+alt="GitHub Contribution Snake"
+src="https://raw.githubusercontent.com/martin34524/martin34524/output/github-contribution-grid-snake-dark.svg"
+/>
+
+<br><br>
+
+> 🚀 Every contribution represents another step toward building scalable software, AI-powered applications, and the future of MacDevs.
 
 </div>
 
