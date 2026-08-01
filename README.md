@@ -234,15 +234,4 @@ Kubernetes                  ████████████████░�
 
 </div>
 
-<br>
 
-<details>
-<summary><b>⚙️ Setup notes (for you, not visitors)</b></summary>
-<br>
-
-- **LinkedIn:** swap `YOUR-LINKEDIN` in the Connect section for your real handle.
-- **Contribution snake:** the animation only renders once the [Platane/snk](https://github.com/Platane/snk) GitHub Action is running in this repo. Create `.github/workflows/snake.yml` — ask and I'll generate it for you — commit it, and the snake will start animating on the next scheduled run.
-- **Repo name:** this file must live in a repo named exactly `martin34524` (matching your GitHub username) for it to render as your profile README.
-- **WakaTime (optional):** if you track coding time with WakaTime, I can add a weekly coding-activity graph too — just say the word.
-
-</details>
