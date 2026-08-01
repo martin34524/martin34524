@@ -4,15 +4,13 @@
 
 ### 🚀 Backend Engineer • AI Engineer • Elixir Developer • Founder of MacDevs
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Building+Scalable+Backend+Systems;Elixir+%7C+Phoenix+%7C+Python;AI+Integrations+%7C+Machine+Learning;System+Architecture+%7C+Distributed+Systems;Linux+Power+User;Always+Building+Something+Awesome+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=900&lines=Building+Scalable+Backend+Systems;Elixir+%7C+Phoenix+%7C+Python;AI+Integrations+%7C+Machine+Learning;Distributed+Systems+%7C+System+Architecture;Linux+Power+User;Always+Learning+🚀" />
 
-<br>
+<br><br>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=martin34524&label=Profile+Views&color=3B82F6&style=for-the-badge)](https://github.com/martin34524)
-
-[![GitHub followers](https://img.shields.io/github/followers/martin34524?style=for-the-badge&color=3B82F6)](https://github.com/martin34524)
-
-[![GitHub Stars](https://img.shields.io/github/stars/martin34524?affiliations=OWNER&style=for-the-badge&color=3B82F6)](https://github.com/martin34524)
+[![Profile Views](https://komarev.com/ghpvc/?username=martin34524&label=Profile%20Views&style=for-the-badge&color=3B82F6)](https://github.com/martin34524)
+[![Followers](https://img.shields.io/github/followers/martin34524?style=for-the-badge&logo=github&color=3B82F6)](https://github.com/martin34524?tab=followers)
+[![Stars](https://img.shields.io/github/stars/martin34524?affiliations=OWNER&style=for-the-badge&logo=github&color=3B82F6)](https://github.com/martin34524)
 
 </div>
 
@@ -20,63 +18,56 @@
 
 # 💫 About Me
 
-I'm a **Backend Engineer** passionate about designing scalable systems, building intelligent applications, and solving complex engineering problems.
+I'm a **Backend Engineer** passionate about designing scalable software, distributed systems, and AI-powered applications.
 
-Currently focused on:
+Currently building modern enterprise solutions using **Elixir**, **Phoenix**, **Python**, and **PostgreSQL** while exploring **Machine Learning**, **LLMs**, and **Cloud Infrastructure**.
 
-- 🚀 Elixir & Phoenix
-- 🤖 AI Integrations
+### Current Interests
+
+- 🚀 High-performance backend systems
+- 🤖 AI & LLM integrations
+- ⚡ Phoenix LiveView
 - 🧠 Machine Learning
-- ☁️ Distributed Systems
-- 🏗 Enterprise Software
-- 🐧 Linux Development
-
-I enjoy building software that is **fast**, **secure**, and **maintainable**.
+- 🏗 Distributed Systems
+- ☁ Cloud-native applications
+- 🐧 Linux & Developer Productivity
 
 ---
 
-# ⚡ Current Projects
+# 🚀 Currently Building
 
-- 🏥 Building **Vumbuzi ERP**
-- 🤖 AI-powered workflow automation
-- 🧠 Local LLM integrations
-- 🌍 Growing **MacDevs**
-- 📚 Open Source Contributions
+- 🏥 **Vumbuzi ERP**
+- 🤖 AI-powered enterprise solutions
+- 🌍 **MacDevs Developer Community**
+- 🧠 LLM integrations with Phoenix
+- 📚 Open Source Projects
 
 ---
 
 # 🛠 Tech Stack
 
-## Languages
+### Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=elixir,python,javascript,html,css"/>
-
+<img src="https://skillicons.dev/icons?i=elixir,python,javascript,html,css" />
 </p>
 
-## Backend
+### Frameworks
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=phoenix,django,fastapi,nodejs"/>
-
+<img src="https://skillicons.dev/icons?i=phoenix,django,fastapi" />
 </p>
 
-## Database
+### Database
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-
+<img src="https://skillicons.dev/icons?i=postgres,mysql" />
 </p>
 
-## DevOps & Tools
+### DevOps & Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,bash" />
 </p>
 
 ---
@@ -85,11 +76,19 @@ I enjoy building software that is **fast**, **secure**, and **maintainable**.
 
 <p align="center">
 
-<img height="190" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=martin34524&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
+<img
+height="190"
+src="https://github-readme-stats.vercel.app/api?username=martin34524&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&cache_seconds=3600"
+/>
 
-<img height="190" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=martin34524&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6"/>
+<img
+height="190"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=martin34524&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&cache_seconds=3600"
+/>
 
 </p>
+
+> **Note:** The language chart is generated from **public repositories only** and reflects repository code size rather than overall experience.
 
 ---
 
@@ -97,7 +96,7 @@ I enjoy building software that is **fast**, **secure**, and **maintainable**.
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=martin34524&theme=github-dark-blue&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=martin34524&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -107,7 +106,7 @@ I enjoy building software that is **fast**, **secure**, and **maintainable**.
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=martin34524&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=martin34524&theme=tokyo-night&hide_border=true"/>
 
 </p>
 
@@ -117,7 +116,7 @@ I enjoy building software that is **fast**, **secure**, and **maintainable**.
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=martin34524&theme=algolia&margin-w=15&no-frame=true&row=2&column=4"/>
+<img src="https://github-profile-trophy.vercel.app/?username=martin34524&theme=tokyonight&margin-w=12&margin-h=12&column=4&no-frame=true"/>
 
 </p>
 
@@ -127,50 +126,38 @@ I enjoy building software that is **fast**, **secure**, and **maintainable**.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| 🏥 **Vumbuzi ERP** | Enterprise ERP with AI integrations | Elixir • Phoenix |
-| 🤖 **AI Backend Services** | OpenAI & Local LLM Integrations | Python |
-| 🌍 **MacDevs Platform** | Community & Developer Ecosystem | Phoenix |
-| 📚 **Blog Generator** | AI Content Platform | FastAPI |
-| ⚡ **Developer Tools** | Automation Utilities | Python |
+| 🏥 **Vumbuzi ERP** | Enterprise resource planning platform with AI-powered workflows | Elixir • Phoenix |
+| 🤖 **AI Backend Services** | OpenAI and Local LLM integrations | Python |
+| 🌍 **MacDevs** | Community-driven software development platform | Elixir |
+| ✍️ **AI Blog Generator** | Automated content generation system | FastAPI |
+| ⚙️ **Developer Utilities** | Backend tooling and automation | Python |
 
 ---
 
-# 📚 Currently Learning
+# 🎯 Current Focus
 
 ```text
-✓ OTP Internals
+✓ Backend Engineering
+✓ Elixir & Phoenix
 ✓ Phoenix LiveView
-✓ AI Agents
+✓ AI Integrations
 ✓ Machine Learning
-✓ Kubernetes
-✓ Cloud Native Systems
+✓ PostgreSQL
 ✓ Distributed Systems
+✓ Cloud Infrastructure
+✓ Linux
 ```
 
 ---
 
-# 🎯 2026 Goals
+# 🏆 2026 Goals
 
-- 🚀 Build world-class backend systems
+- 🚀 Build production-grade AI systems
+- ⚡ Master OTP & Phoenix internals
 - 🌍 Grow MacDevs into a thriving developer community
-- 🤖 Build AI-first enterprise software
 - 📦 Contribute to major open-source projects
-- 📝 Publish technical blogs every month
-- 🎤 Speak at developer conferences
-
----
-
-# 📈 Coding Activity
-
-<!--START_SECTION:waka-->
-```text
-Elixir        ████████████░░░░░░░░   50%
-Python        ████████░░░░░░░░░░░   30%
-JavaScript    ████░░░░░░░░░░░░░░░   10%
-SQL           ██░░░░░░░░░░░░░░░░░   6%
-Other         ██░░░░░░░░░░░░░░░░░   4%
-```
-<!--END_SECTION:waka-->
+- 📝 Publish technical articles consistently
+- ☁ Deploy scalable cloud-native systems
 
 ---
 
@@ -194,12 +181,12 @@ Other         ██░░░░░░░░░░░░░░░░░   4%
 
 ## 💭 Favorite Quote
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> **"First, solve the problem. Then, write the code."** — John Johnson
 
 ---
 
 ### ⭐ Thanks for visiting my profile!
 
-*"Building intelligent systems that solve real-world problems."*
+**Building intelligent systems that solve real-world problems.**
 
 </div>
