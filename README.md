@@ -3,7 +3,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F0C29,20:302B63,45:4338CA,70:7C3AED,100:2563EB&text=Mac%20Martins&fontSize=72&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20Engineer%20%C2%B7%20AI%20Engineer%20%C2%B7%20Founder%20of%20MacDevs&descAlignY=55&descSize=19"/>
 
 <a href="https://github.com/martin34524">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=820&lines=Engineering+resilient+backend+systems...;Elixir+%2B+Phoenix+%2B+OTP;Shipping+AI+%2F+LLM+products;Architecting+Vumbuzi+ERP;Founder+%40+MacDevs" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=820&lines=Engineering+resilient+backend+systems...;Elixir+%2B+Phoenix+%2B+OTP;Shipping+AI+%2F+LLM+products;Collaborating+on+Vumbuzi+ERP;Founder+%40+MacDevs" />
 </a>
 
 <br>
@@ -28,7 +28,7 @@
 
 ## 🧠 About Me
 
-I design and build backend systems and AI-driven products — **Elixir/Phoenix** for resilient, concurrent architecture, **Python** for AI/LLM engineering. Founder of **MacDevs**, currently building **Vumbuzi ERP**, an enterprise resource planning platform with AI-powered workflows baked into its core.
+I design and build backend systems and AI-driven products — **Elixir/Phoenix** for resilient, concurrent architecture, **Python** for AI/LLM engineering. Founder of **MacDevs**, and currently collaborating on **Vumbuzi ERP**, an enterprise resource planning platform with AI-powered workflows baked into its core.
 
 <table>
 <tr>
@@ -39,8 +39,12 @@ defmodule Mac do
   @moduledoc "Backend Engineer · AI Engineer · Founder of MacDevs"
 
   def currently_building do
-    ["Vumbuzi ERP", "AI Enterprise Solutions",
+    ["MacDevs Projects", "AI Backend Services",
      "Phoenix Applications", "Open Source"]
+  end
+
+  def currently_collaborating_on do
+    ["Vumbuzi ERP"]
   end
 
   def currently_learning do
@@ -63,7 +67,7 @@ end
 │                             │
 │  role     : Backend / AI    │
 │  focus    : Elixir · Phoenix│
-│  building : Vumbuzi ERP     │
+│  collab   : Vumbuzi ERP     │
 │  learning : OTP · K8s · ML  │
 │  status   : shipping 🚀     │
 │                             │
@@ -142,7 +146,7 @@ alt="Contribution Snake Animation"
 <br>
 
 <sub>
-✨ Updated automatically every day using GitHub Actions.
+✨ Updated automatically via GitHub Actions (see <code>.github/workflows/snake.yml</code>).
 </sub>
 
 </div>
@@ -165,8 +169,32 @@ alt="Contribution Snake Animation"
 <tr>
 <td width="50%" valign="top">
 
-### 🏥 Vumbuzi&nbsp;ERP
-Enterprise Resource Planning platform with AI-powered workflows woven into core operations.
+### 📝 Blog&nbsp;Generator
+Automated content generation pipeline — from prompt to publish.
+<br><br>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square"/>
+<br><br>
+<a href="https://github.com/martin34524/blog-generator">→ View repo</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 KHAN&#8209;MD&nbsp;/&nbsp;KHAN&#8209;XD
+WhatsApp bot builds on the Baileys multi-device framework — auto AI replies, media tools, group utilities.
+<br><br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<br><br>
+<a href="https://github.com/martin34524/KHAN-MD">→ View repo</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Vumbuzi&nbsp;ERP <sub>(collaborator)</sub>
+Enterprise Resource Planning platform with AI-powered workflows woven into core operations. Built with another organization — closed-source.
 <br><br>
 <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white"/>
 <img src="https://img.shields.io/badge/Phoenix-FD4F00?style=flat-square&logo=elixir&logoColor=white"/>
@@ -175,31 +203,11 @@ Enterprise Resource Planning platform with AI-powered workflows woven into core 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI&nbsp;Backend&nbsp;Services
-Production integrations with OpenAI and local LLMs for enterprise use cases.
-<br><br>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white"/>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 🌍 MacDevs
 Community-driven software development studio and open source home.
 <br><br>
 <img src="https://img.shields.io/badge/Elixir-4B275F?style=flat-square&logo=elixir&logoColor=white"/>
 <img src="https://img.shields.io/badge/Community-2563EB?style=flat-square"/>
-
-</td>
-<td width="50%" valign="top">
-
-### 📝 AI&nbsp;Blog&nbsp;Generator
-Automated content generation pipeline from prompt to publish.
-<br><br>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-7C3AED?style=flat-square"/>
 
 </td>
 </tr>
@@ -227,7 +235,7 @@ Kubernetes                  ████████████████░�
 <div align="center">
 
 <a href="https://github.com/martin34524"><img src="https://skillicons.dev/icons?i=github&theme=dark"/></a>
-<a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/></a>
+<a href="https://www.linkedin.com/in/mac-martins-45076531a/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark"/></a>
 
 </div>
 
@@ -242,5 +250,3 @@ Kubernetes                  ████████████████░�
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=140&color=0:0F0C29,20:302B63,45:4338CA,70:7C3AED,100:2563EB"/>
 
 </div>
-
-
