@@ -156,9 +156,7 @@ alt="Contribution Snake Animation"
 
 <br>
 
-<sub>
-✨ Updated automatically via GitHub Actions (see <code>.github/workflows/snake.yml</code>).
-</sub>
+
 
 </div>
 
