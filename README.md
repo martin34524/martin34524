@@ -71,6 +71,11 @@ Data, Infra & Tooling
 <img alt="Postgres, MySQL, Docker, Kubernetes, Git, GitHub, Linux, Bash, VS Code" src="https://skillicons.dev/icons?i=postgres,mysql,docker,kubernetes,git,github,linux,bash,vscode&theme=dark"/> </div> <br>
 📊 GitHub Analytics
 <div align="center"> <img height="165" alt="Mac Martins' GitHub stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=martin34524&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9"/> <img height="165" alt="Mac Martins' most used languages" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=martin34524&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/> <br> <img alt="Mac Martins' GitHub streak" src="https://streak-stats.demolab.com?user=martin34524&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA"/> <br> <img width="100%" alt="Mac Martins' contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=martin34524&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=ffffff"/> </div> <br>
+📅 Contribution Calendar
+<div align="center"> <img width="100%" alt="Mac Martins' daily commit calendar" src="https://ghchart.rshah.org/7C3AED/martin34524"/> </div>
+
+Each square is a day — the darker the shade, the more commits landed that day. Hover a square on GitHub to see the exact count. <br>
+
 🏆 Trophies
 <div align="center"> <img alt="GitHub trophies for martin34524" src="https://github-profile-trophy.vercel.app/?username=martin34524&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true&title.rank.C=7C3AED"/> </div> <br>
 🚀 Featured Projects
