@@ -126,10 +126,6 @@ end
 
 <img alt="Mac Martins' GitHub streak" src="https://streak-stats.demolab.com?user=martin34524&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA"/>
 
-<br>
-
-<img width="100%" alt="Mac Martins' contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=martin34524&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=7C3AED&point=ffffff"/>
-
 </div>
 
 <br>
