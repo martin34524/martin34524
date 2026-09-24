@@ -18,7 +18,7 @@
 <img alt="GitHub followers" src="https://img.shields.io/github/followers/martin34524?style=for-the-badge&color=7C3AED&labelColor=0F0C29&logo=github"/>
 <img alt="GitHub stars" src="https://img.shields.io/github/stars/martin34524?style=for-the-badge&color=2563EB&labelColor=0F0C29&logo=github"/>
 
-<br>
+<br><br>
 
 <a href="https://www.linkedin.com/in/mac-martins-45076531a/">
   <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -30,7 +30,6 @@
 </div>
 
 <br>
-
 
 ## 🧠 About Me
 
@@ -120,12 +119,12 @@ end
 
 <div align="center">
 
-<img height="165" alt="Mac Martins' GitHub stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=martin34524&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0D1117&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9"/>
-<img height="165" alt="Mac Martins' most used languages" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=martin34524&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9"/>
+<img height="165" alt="Mac Martins' GitHub stats" src="https://github-readme-stats-one-bice.vercel.app/api?username=martin34524&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&bg_color=0F0C29&title_color=A78BFA&icon_color=7C3AED&text_color=C9D1D9"/>
+<img height="165" alt="Mac Martins' most used languages" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=martin34524&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0F0C29&title_color=A78BFA&text_color=C9D1D9"/>
 
 <br>
 
-<img alt="Mac Martins' GitHub streak" src="https://streak-stats.demolab.com?user=martin34524&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA"/>
+<img alt="Mac Martins' GitHub streak" src="https://streak-stats.demolab.com?user=martin34524&theme=tokyonight&hide_border=true&background=0F0C29&ring=7C3AED&fire=A78BFA&currStreakLabel=A78BFA"/>
 
 </div>
 
@@ -144,7 +143,7 @@ Each square is a day — the darker the shade, the more commits landed that day.
 ## 🏆 Trophies
 
 <div align="center">
-<img alt="GitHub trophies for martin34524" src="https://github-profile-trophy.vercel.app/?username=martin34524&theme=algolia&column=4&margin-w=15&margin-h=15&no-frame=true&title.rank.C=7C3AED"/>
+<img alt="GitHub trophies for martin34524" src="https://github-profile-trophy.vercel.app/?username=martin34524&theme=onedark&column=4&margin-w=15&margin-h=15&no-frame=true&title.rank.C=7C3AED"/>
 </div>
 
 <br>
@@ -201,7 +200,9 @@ Community-driven software development studio and open-source home.
 
 <br>
 
-## 🎯 Current Focus
+<details>
+<summary><b>🎯 Current Focus</b> — click to expand</summary>
+<br>
 
 ```text
 Backend Engineering        ██████████████████████████░░  92%
@@ -214,15 +215,13 @@ Distributed Systems         █████████████████�
 Kubernetes                  ████████████████░░░░░░░░░░░░  55%
 ```
 
+</details>
+
 <br>
 
 ## 💬 Let's Collaborate
 
 I'm always open to conversations about backend architecture, distributed systems, or AI product engineering. If you're working on something in Elixir/Phoenix, or building AI-powered tooling, feel free to reach out.
-
-<br>
-
-## 🌎 Connect
 
 <div align="center">
 
